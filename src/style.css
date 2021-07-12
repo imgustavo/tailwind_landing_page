@@ -8,7 +8,7 @@
     @apply shadow-md py-3 px-6 rounded-md transition duration-300
 }
 
-btn-purple{
+.btn-purple{
     @apply bg-bookmark-purple text-white
 }
 

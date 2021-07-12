@@ -33110,7 +33110,7 @@ video {
   transition-duration: 300ms
 }
 
-btn-purple{
+.btn-purple{
   --tw-bg-opacity: 1;
   background-color: rgba(82, 103, 223, var(--tw-bg-opacity));
   --tw-text-opacity: 1;
